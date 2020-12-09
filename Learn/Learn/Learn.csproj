@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include=".Net\EnumerableとCollectionとList.cs" />
+    <Compile Include=".Net\IEnumeratorとIEnumerable.cs" />
+  </ItemGroup>
+
+</Project>
