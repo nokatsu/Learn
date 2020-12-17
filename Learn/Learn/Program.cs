@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using Learn.Language;
 using Learn.Net;
 using Learn.Tips;
+using Learn.Design;
 
 
 // C# 9.0
@@ -21,6 +22,7 @@ new 演算子();
 //new 静的な型と動的な型();
 //new cast();
 //new is拡張();
+new switch拡張();
 
 //new Tupleのrefについて();
 //new Tupleと匿名型の違いについて();
@@ -31,6 +33,12 @@ new 演算子();
 
 //new IEnumeratorとIEnumerable();
 //new EnumerableとCollectionとList();
+
+#endregion
+
+#region Design
+
+// new 複数Interfaceの具象クラスを１つにまとめて適切なアクセシビリティを実現する();
 
 #endregion
 
