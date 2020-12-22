@@ -13,7 +13,7 @@ using Learn.Design;
 
 #region C#自体
 
-new 演算子();
+//new 演算子();
 //new 値型と参照型();
 //new 参照渡しと値渡し();
 //new inとout();
@@ -22,7 +22,7 @@ new 演算子();
 //new 静的な型と動的な型();
 //new cast();
 //new is拡張();
-new switch拡張();
+//new switch拡張();
 
 //new Tupleのrefについて();
 //new Tupleと匿名型の違いについて();
@@ -33,17 +33,21 @@ new switch拡張();
 
 //new IEnumeratorとIEnumerable();
 //new EnumerableとCollectionとList();
+await 非同期処理.Create();
+//await 非同期foreach.Create();
 
 #endregion
 
 #region Design
 
-// new 複数Interfaceの具象クラスを１つにまとめて適切なアクセシビリティを実現する();
+//new 複数Interfaceの具象クラスを１つにまとめて適切なアクセシビリティを実現する();
+//new Singletonパターン();
 
 #endregion
 
 #region Tips
 
 //new 呼び出しごとに0と1を繰り返す();
+//await コンストラクタで非同期メソッドを呼ぶ.Create();
 
 #endregion
