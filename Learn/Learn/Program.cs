@@ -27,14 +27,17 @@ using Learn.Design;
 //new Tupleのrefについて();
 //new Tupleと匿名型の違いについて();
 
+new イテレータyield();
+
 #endregion
 
 #region .Net
 
 //new IEnumeratorとIEnumerable();
 //new EnumerableとCollectionとList();
-await 非同期処理.Create();
+//await 非同期処理.Create();
 //await 非同期foreach.Create();
+//new シャローコピーとディープコピー();
 
 #endregion
 

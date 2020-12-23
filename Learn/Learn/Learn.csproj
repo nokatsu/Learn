@@ -8,6 +8,7 @@
   <ItemGroup>
     <Compile Include=".Net\EnumerableとCollectionとList.cs" />
     <Compile Include=".Net\IEnumeratorとIEnumerable.cs" />
+    <Compile Include=".Net\シャローコピーとディープコピー.cs" />
     <Compile Include=".Net\非同期foreach.cs" />
     <Compile Include=".Net\非同期処理.cs" />
   </ItemGroup>
