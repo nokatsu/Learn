@@ -23,11 +23,13 @@ using Learn.Design;
 //new cast();
 //new is拡張();
 //new switch拡張();
+//new initセッター();
+//new レコード();
 
 //new Tupleのrefについて();
 //new Tupleと匿名型の違いについて();
 
-new イテレータyield();
+//new イテレータyield();
 
 #endregion
 
