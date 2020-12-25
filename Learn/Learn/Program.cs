@@ -47,6 +47,9 @@ using Learn.Design;
 
 //new 複数Interfaceの具象クラスを１つにまとめて適切なアクセシビリティを実現する();
 //new Singletonパターン();
+//new 変更通知_イベント();
+//new Observerパターン();
+//new Observerパターン_Subject();
 
 #endregion
 

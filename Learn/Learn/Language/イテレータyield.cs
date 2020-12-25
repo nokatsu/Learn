@@ -21,6 +21,7 @@ namespace Learn.Language
         }
 
         // ↓これがイテレーター ブロック。IEnubrable を実装するクラスを自動生成してくれる。
+        // リターン値の型はIEnumerable<T>である必要がある
         static public IEnumerable<int> FromTo(int from, int to)
         {
             while (from <= to)
