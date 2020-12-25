@@ -10,6 +10,7 @@ namespace Learn.Net
     // https://qiita.com/rawr/items/5d49960a4e4d3823722f
     // https://qiita.com/acple@github/items/8f63aacb13de9954c5da
     // https://qwerty2501.hatenablog.com/entry/2014/04/24/235849
+    // https://blog.xin9le.net/entry/2012/07/19/002126
 
     public class 非同期処理
     {

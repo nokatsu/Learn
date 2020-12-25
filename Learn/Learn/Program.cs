@@ -31,6 +31,12 @@ using Learn.Design;
 
 //new イテレータyield();
 
+//new デリゲート();
+//new ActionとFunc();
+//new イベント(new DelegateEvent());
+
+new 拡張メソッド();
+
 #endregion
 
 #region .Net
